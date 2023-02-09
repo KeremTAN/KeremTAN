@@ -1,7 +1,9 @@
+
+### Hi There 👋
+
+I would like to tell you briefly about myself. I am constantly try to improve my ability to think polymorphicaly and to find solutions to problems from different angles. I believe that my profession is a philosophical and artistic profession as well as a mathematical and technical. That's why I try to improve myself in the fields of ethics and creativity as much as I try to improve myself in mathematical and technical fields.
+
 <!--
-### Hi there 👋
-
-
 **KeremTAN/KeremTAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
