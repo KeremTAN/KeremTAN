@@ -20,7 +20,6 @@ I would like to tell you briefly about myself. I am constantly try to improve my
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="idea" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visualstudio" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 
 ### 🔗 The Links About Me
