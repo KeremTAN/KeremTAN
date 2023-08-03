@@ -2,7 +2,7 @@
 
 I would like to tell you briefly about myself. I am constantly try to improve my ability to think polymorphicaly and to find solutions to problems from different angles. I believe that my profession is a philosophical and artistic profession as well as a mathematical and technical. That's why I try to improve myself in the fields of ethics and creativity as much as I try to improve myself in mathematical and technical fields.
 
-### 🛠️ Programming Languages, Libraries and Tools
+### 🛠️ Languages, Libraries and Tools
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://llvm.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/LLVM_logo.png" alt="llvm" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
@@ -19,8 +19,9 @@ I would like to tell you briefly about myself. I am constantly try to improve my
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="idea" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://visualstudio.microsoft.com/tr/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" alt="visualstudio" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 
 ### 🔗 The Links About Me
 <a href="https://www.linkedin.com/in/keremtan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
