@@ -23,8 +23,9 @@ I would like to tell you briefly about myself. I am constantly try to improve my
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 
 ### 🔗 The Links About Me
-<a href="https://www.linkedin.com/in/keremtan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/keremtan/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/keremtan/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://keremtan.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=" /></a> &nbsp;&nbsp;&nbsp;
 
 <!--
 **KeremTAN/KeremTAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
