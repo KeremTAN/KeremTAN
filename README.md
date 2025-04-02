@@ -4,7 +4,7 @@ I would like to tell you briefly about myself. I am constantly try to improve my
 
 ### 🛠️ Languages, Libraries and Tools
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Nvidia_CUDA_Logo.jpg/220px-Nvidia_CUDA_Logo.jpg" alt="cuda" width="60" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/220px-Nvidia_CUDA_Logo.jpg" alt="cuda" width="60" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/150px-Qt_logo_neon_2022.svg.png" alt="qt" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://llvm.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/LLVM_logo.png" alt="llvm" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
