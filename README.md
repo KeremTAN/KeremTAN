@@ -6,15 +6,13 @@ I would like to tell you briefly about myself. I am constantly try to improve my
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Nvidia_CUDA_Logo.jpg/220px-Nvidia_CUDA_Logo.jpg" alt="cuda" width="60" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/150px-Qt_logo_neon_2022.svg.png" alt="qt" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://llvm.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/LLVM_logo.png" alt="llvm" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://openusd.org/release/index.html" target="_blank"> <img src="https://github.com/KeremTAN/Usd-Hydra-Filament/blob/temp_usdHydraPlugin/img/gitopenusd.png" alt="openusd" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://hibernate.org/" target="_blank"> <img src="https://hibernate.org/images/hibernate-logo.svg" alt="hibernate" width="85" height="45"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 
@@ -22,6 +20,10 @@ I would like to tell you briefly about myself. I am constantly try to improve my
 
 
 <!--
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://llvm.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/LLVM_logo.png" alt="llvm" width="50" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+
 <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" alt="matplotlib" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
 
