@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-I would like to tell you briefly about myself. I am constantly try to improve my ability to think polymorphicaly and to find solutions to problems from different angles. I believe that my profession is a philosophical and artistic profession as well as a mathematical and technical. That's why I try to improve myself in the fields of ethics and creativity as much as I try to improve myself in mathematical and technical fields.
+I would like to tell you briefly about myself. I am constantly trying to improve my ability to think polymorphically and to find solutions to problems from different angles. I believe that my profession is a philosophical and artistic profession as well as a mathematical and technical one. That's why I try to improve myself in the fields of ethics and creativity as much as I try to improve myself in mathematical and technical fields.
 
 ### 🛠️ Languages, Libraries and Tools
 <a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
