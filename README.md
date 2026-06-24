@@ -3,22 +3,25 @@
 I would like to tell you briefly about myself. I am constantly trying to improve my ability to think polymorphically and to find solutions to problems from different angles. I believe that my profession is a philosophical and artistic profession as well as a mathematical and technical one. That's why I try to improve myself in the fields of ethics and creativity as much as I try to improve myself in mathematical and technical fields.
 
 ### 🛠️ Languages, Libraries and Tools
-<a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="cpp" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/cuda2.png" alt="cuda" width="100" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/c++.png" alt="cpp" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/cuda.png" alt="cuda" width="100" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+
 <a href="https://openusd.org/release/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/gitopenusd.png" alt="openusd" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://google.github.io/filament/Filament.html" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/filament.png" alt="filament" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="70" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+
+<a href="https://cmake.org/" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/cmake.png" alt="cmake" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://catch2.org" target="_blank"> <img src="https://raw.githubusercontent.com/KeremTAN/icons/main/catch2.png" alt="catch2" width="80" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
+
+<!--
 <a href="https://www.qt.io/" target="_blank"> <img src="https://cdn.simpleicons.org/qt" alt="qt" width="50" height="50"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.opengl.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="opengl" width="60" height="50"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-
-<a href="https://www.oracle.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://hibernate.org/" target="_blank"> <img src="https://hibernate.org/images/hibernate-logo.svg" alt="hibernate" width="90" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-
-
-
+-->
 
 <!--
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
